@@ -1,0 +1,20 @@
+{
+  "name": "TransGerm",
+  "version": "0.1.0",
+  "authors": [
+    "Uice Lu <uicestone@gmail.com>"
+  ],
+  "main": "public/index.php",
+  "license": "MIT",
+  "homepage": "https://github.com/uicestone/transgerm",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
