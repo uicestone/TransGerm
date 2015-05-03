@@ -12,3 +12,8 @@
 */
 
 Route::get('/', 'WelcomeController@index');
+
+Route::get('help', 'ClientController@help');
+Route::get('order', 'ClientController@order');
+Route::get('packages', 'ClientController@packages');
+Route::get('process', 'ClientController@process');
